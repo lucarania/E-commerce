@@ -1,0 +1,42 @@
+/* FUNZIONE PER LA PRIMA PAGINA */
+function createFirstPage(firstPageData) {
+  /* HTML DINAMICO */
+  const sectionHTML = `
+    <div class="racommended">
+      <a href="#${firstPageData.id}">
+        <div class="products">
+          <h3>${firstPageData.titleSection}</h3>
+          <img src="${firstPageData.img}" class="image">
+        </div>
+      </a>
+    </div>
+    
+    /* PER INIETTARE L'HTML NEL DIV FIRST PAGE */
+  document.getElementById("first-page").innerHTML += sectionHTML;}
+  `;
+
+/* FUNZIONE PER CREARE IL CATALOGO */
+function createCatalog(categoryData) {
+  /* HTML DINAMICO PER IL CATALOGO */
+  let itemsHTML = categoryData.items.map(
+    (item) => `
+      <div class="catalog-card">
+        <img class="vestiti" src="${item.img}">
+        <h4>${item.name}</h4>
+        <p>${item.price}</p>
+      </div>
+    `
+  );
+
+  const sectionHTML = `
+    <section class="category" id=${categoryData.title}>
+      <h2 class="categoryTitle">${categoryData.title}</h2>
+      <div class="row">
+        ${itemsHTML}
+      </div>
+    </section>
+  `;
+
+  /* INIETTARE HTML NEL DIV CATALOGO */
+  document.getElementById("catalog-container").innerHTML += sectionHTML;
+}

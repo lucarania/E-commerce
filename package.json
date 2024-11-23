@@ -1,0 +1,153 @@
+{
+  "firstPageData": [
+    {
+      "titleSection": "MAGLIETTE",
+      "img": "https://nunalie.it/cdn/shop/files/maglie_3_18515890-d3d2-468c-9900-5b0c7a8f7458_550x.png?v=1731917102"
+    },
+    {
+      "titleSection": "PANTALONI",
+      "img": "https://nunalie.it/cdn/shop/files/pantaloni_7_550x.png?v=1731917136"
+    },
+    {
+      "titleSection": "ABITI",
+      "img": "https://nunalie.it/cdn/shop/files/abiti_7_550x.png?v=1731917225"
+    }
+  ],
+  "catalogData": [
+    {
+      "title": "MAGLIETTE",
+      "items": [
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG24044NE-24_1_1_360x.jpg?v=1727939684",
+          "name": "Lorem, ipsum dolor.",
+          "price": "30$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG24138FANE-24_5_5_360x.jpg?v=1728630121",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG2271AOT-23_1_1_360x.jpg?v=1729148937",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG2272APA-23_1_1_360x.jpg?v=1731317450",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG24055RS-25_1_1_360x.jpg?v=1729149223",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/MOD958632VE-24_1_1_360x.jpg?v=1729756445",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG24017FAGR-25_1_1_360x.jpg?v=1729840059",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG24062ABE-24_1_1_360x.jpg?v=1727939724",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        }
+      ]
+    },
+    {
+      "title": "PANTALONI",
+      "items": [
+        {
+          "img": "https://nunalie.it/cdn/shop/files/GI2520BE-24_1_1_360x.jpg?v=1730969084",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/N1270JE-24_1_1_360x.jpg?v=1730968762",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/P3044T16BL-24_2_2_360x.jpg?v=1730366753",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/P3244T16NE-24_5_5_360x.jpg?v=1730366771",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/P3396AMNGR-24_1_1_360x.jpg?v=1730366793",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/N9084BJE-24_1_1_360x.jpg?v=1729756603",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/NA583JE-24_1_1_360x.jpg?v=1729756472",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/N648PALAZJE-24_1_1_360x.jpg?v=1729756542",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        }
+      ]
+    },
+    {
+      "title": "ABITI",
+      "items": [
+        {
+          "img": "https://nunalie.it/cdn/shop/files/A5071G1NE-23_1_1_360x.jpg?v=1731571946",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG20084NE-23_1_1_360x.jpg?v=1731572841",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/ME422NE-24_1_1_360x.jpg?v=1731498838",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/EE37FARO-23_1_1_360x.jpg?v=1731572275",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG24146PA-25_1_1_a4fb694b-b308-4c3d-8ab2-44971f22d097_360x.jpg?v=1731684531",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/GV9027CM-24_1_1_4122cfdf-3dd9-4e7f-9083-43d69e8825c7_360x.jpg?v=1730369784",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/VG24146ANE-25_1_1_360x.jpg?v=1729149267",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        },
+        {
+          "img": "https://nunalie.it/cdn/shop/files/ME373FA-23_1_1_360x.jpg?v=1729148424",
+          "name": "Lorem, ipsum dolor.",
+          "price": "40$"
+        }
+      ]
+    }
+  ]
+}

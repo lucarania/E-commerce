@@ -1,0 +1,109 @@
+/* PER SCROLLARE LA PAGINA */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 auto;
+}
+
+#header-page {
+  background-color: black;
+}
+
+/* PER DISTANZIARE IL LOGO DAGLI INPUT */
+
+.navbar {
+  display: flex;
+  gap: 80%;
+}
+
+/* LOGO SITO */
+
+.logo img {
+  width: 90px;
+  height: 90px;
+  margin-left: 20px;
+}
+
+/* CART,INPUT */
+
+.input {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+#contact,
+#cart {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+}
+
+#contact {
+  width: 100px;
+  height: 40px;
+}
+
+#cart img {
+  width: 30px;
+}
+
+/* PRODOTTI IN PRIMA PAGINA */
+
+#first-page {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.products {
+  text-align: center;
+}
+
+.products img {
+  width: 350px;
+  height: 450px;
+  border: 2px solid black;
+}
+
+/* LINK  */
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* INIZIO CATALOGO PRODOTTI */
+
+.categoryContainer {
+  margin-top: 230px;
+  padding: 10px;
+}
+
+.categoryTitle {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 1px;
+}
+
+.vestiti {
+  border: black solid 2px;
+}
